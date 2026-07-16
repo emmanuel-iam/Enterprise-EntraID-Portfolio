@@ -35,7 +35,6 @@ The new IAM solution must support the following business objectives:
   14. Generate reports and audit evidence for security and compliance reviews.
 
  ## Project Role
-
 For this project, I am acting as the Microsoft Entra ID IAM Engineer responsible for designing, implementing, testing, documenting, and securing the company’s identity environment.
 
 My responsibilities include:
@@ -57,16 +56,18 @@ My responsibilities include:
 AccessShield Technologies will have a structured and secure cloud identity environment that reduces manual provisioning, limits unnecessary access, improves employee onboarding and offboarding, protects administrator accounts, and produces clear evidence for audits and compliance reviews.
 
  ## Tools
- -✅ User provisioning
- -✅ RBAC
- -✅ Dynamic groups
- -✅ JML (Joiner–Mover–Leaver)
- -✅ MFA
- -✅ Conditional Access
- -✅ Identity Governance
- -✅ Privileged Access
- -✅ Monitoring
- -✅ Reporting
+  ✅ User provisioning
+  ✅ RBAC
+  ✅ Dynamic groups
+  ✅ JML (Joiner–Mover–Leaver)
+  ✅ Multi-Factor Authentication (MFA)
+  ✅ Conditional Access
+  ✅ Identity Governance
+  ✅ Privileged Access
+  ✅ Monitoring
+  ✅ Reporting
+  ✅ PowerShell
+  ✅ Microsoft Graph
 Use PowerShell, Microsoft Graph, and Azure Automation to reduce repetitive administrative work.
 ├── 02-Lab-Setup
 ├── 03-Enterprise-Design
