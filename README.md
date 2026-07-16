@@ -115,9 +115,9 @@ AccessShield Technologies will have a structured and secure cloud identity envir
   👑 Privileged Access
   ## Step 15
   💻 PowerShell Automation
-  ## Step
-  🌐 Microsoft Graph API
   ## Step 16
+  🌐 Microsoft Graph API
+  ## Step 17
   📊 Monitoring & Reporting
   
   
