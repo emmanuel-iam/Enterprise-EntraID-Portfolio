@@ -87,21 +87,37 @@ AccessShield Technologies will have a structured and secure cloud identity envir
   ✅ Microsoft Graph
  ## Step 1
   📥 Bulk User Provisioning
+ ## Step 2 
   👔 Manager Assignments
+  ## Step 3
   👨‍👩‍👧‍👦 Security Groups
+  ## Step 4
   ⚡ Dynamic Groups
+  ## Step 5
   🔑 Role-Based Access Control (RBAC)
+  ## Step 6
   ⚖️ Separation of Duties (SoD)
+  ## Step 7
   🎫 License Management
+  ## Step 8
   🔐 Authentication & MFA
+  ## Step 9
   🛡️ Conditional Access
+  ## Step 10
   🚀 Joiner Process
+  ## Step 11
   🔄 Mover Process
+  ## Step 12
   🚪 Leaver Process
+  ## Step 13
   🏛️ Identity Governance
+  ## Step 14
   👑 Privileged Access
+  ## Step 15
   💻 PowerShell Automation
+  ## Step
   🌐 Microsoft Graph API
+  ## Step 16
   📊 Monitoring & Reporting
   
   
