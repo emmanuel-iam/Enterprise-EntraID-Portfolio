@@ -20,19 +20,19 @@ The leadership team has asked the Identity and Access Management team to design 
 
 The new IAM solution must support the following business objectives:
 
-Create and manage 50 employee identities in Microsoft Entra ID.
-Organize users by department, job function, employee type, manager, and location.
-Automate access assignments using security groups, dynamic groups, and role-based access control.
-Require multifactor authentication for employees and administrators.
-Apply Conditional Access policies to reduce unauthorized access.
-Automate joiner, mover, and leaver lifecycle processes.
-Ensure employees receive only the access required for their jobs.
-Remove old access when employees transfer departments.
-Disable accounts and revoke access quickly when users leave the company.
-Create approval workflows and access reviews for contractors and sensitive applications.
-Identify orphan accounts, dormant accounts, excessive access, and separation-of-duties conflicts.
-Protect privileged accounts through least privilege, separate administrator accounts, MFA, emergency-access procedures, and just-in-time access.
-Generate reports and audit evidence for security and compliance reviews.
+  1. Create and manage 50 employee identities in Microsoft Entra ID.
+  2. Organize users by department, job function, employee type, manager, and location.
+  3. Automate access assignments using security groups, dynamic groups, and role-based access control.
+  4. Require multifactor authentication for employees and administrators.
+  5. Apply Conditional Access policies to reduce unauthorized access.
+  6. Automate joiner, mover, and leaver lifecycle processes.
+  7. Ensure employees receive only the access required for their jobs.
+  8. Remove old access when employees transfer departments.
+  9. Disable accounts and revoke access quickly when users leave the company.
+  10. Create approval workflows and access reviews for contractors and sensitive applications.
+  11. Identify orphan accounts, dormant accounts, excessive access, and separation-of-duties conflicts.
+  13. Protect privileged accounts through least privilege, separate administrator accounts, MFA, emergency-access procedures, and just-in-time access.
+  14. Generate reports and audit evidence for security and compliance reviews.
 Use PowerShell, Microsoft Graph, and Azure Automation to reduce repetitive administrative work.
 ├── 02-Lab-Setup
 ├── 03-Enterprise-Design
