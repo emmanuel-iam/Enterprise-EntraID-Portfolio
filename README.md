@@ -52,7 +52,9 @@ My responsibilities include:
  - Designing privileged-access protections
  - Creating PowerShell and Microsoft Graph automation
  - Producing audit reports, runbooks, screenshots, and test results
- - 
+
+ ## Expected Business Outcome 
+AccessShield Technologies will have a structured and secure cloud identity environment that reduces manual provisioning, limits unnecessary access, improves employee onboarding and offboarding, protects administrator accounts, and produces clear evidence for audits and compliance reviews.
 Use PowerShell, Microsoft Graph, and Azure Automation to reduce repetitive administrative work.
 ├── 02-Lab-Setup
 ├── 03-Enterprise-Design
