@@ -1,11 +1,17 @@
 <h2>🏢Enterprise-EntraID-Portfolio
 
   ## Business-Scenario
-  AccessShield Technologies is a growing technology and consulting company with employees working from offices in New York, New Jersey, Atlanta, and remotely across the United States.
+AccessShield Technologies is a growing technology and consulting company with employees in New York, New Jersey, Atlanta and remote locations.
 
-The company recently hired 50 employees across Information Technology, Human Resources, Finance, Sales, Operations, and Executive Leadership. AccessShield Technologies currently relies on several manual processes for creating accounts, assigning access, managing employee transfers, and disabling accounts when workers leave the company.
+The company recently hired 50 workers across:
+- Executive Leadership
+- Information Technology
+- Human Resources
+- Finance
+- Sales
+- Operations
 
-Manual processes will created several business and security problems:
+Manual processes will create several business and security problems:
 
  - New employees sometimes wait too long to receive system access.
  - Users may receive access that does not match their job responsibilities.
@@ -17,6 +23,8 @@ Manual processes will created several business and security problems:
  - User onboarding and offboarding require too much manual work.
 
 The leadership team has asked the Identity and Access Management team to design and implement a secure Microsoft Entra ID environment.
+
+ ## Business Structure
 
 The new IAM solution must support the following business objectives:
 
@@ -68,6 +76,8 @@ AccessShield Technologies will have a structured and secure cloud identity envir
   ✅ Reporting
   ✅ PowerShell
   ✅ Microsoft Graph
+
+  
 Use PowerShell, Microsoft Graph, and Azure Automation to reduce repetitive administrative work.
 ├── 02-Lab-Setup
 ├── 03-Enterprise-Design
