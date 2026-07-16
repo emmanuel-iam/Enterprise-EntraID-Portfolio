@@ -24,7 +24,16 @@ Manual processes will create several business and security problems:
 
 The leadership team has asked the Identity and Access Management team to design and implement a secure Microsoft Entra ID environment.
 
- ## Business Structure
+ ## Department Structure
+      
+                      👔 Executive Leadership (4)
+                                   │
+          ┌───────────────┬───────────────┬───────────────┐
+          │               │               │
+       💻 IT (10)     💰 Finance (8)   ⚙️ Operations (10)
+         │               │               │
+         │               │               │
+     👥 HR (8)         📈 Sales (10)
 
 The new IAM solution must support the following business objectives:
 
@@ -71,32 +80,34 @@ AccessShield Technologies will have a structured and secure cloud identity envir
   ✅ Multi-Factor Authentication (MFA)
   ✅ Conditional Access
   ✅ Identity Governance
-  ✅ Privileged Access
+  ✅ Enterprise Applications
   ✅ Monitoring
   ✅ Reporting
   ✅ PowerShell
   ✅ Microsoft Graph
+ ## Step 1
+  📥 Bulk User Provisioning
+  👔 Manager Assignments
+  👨‍👩‍👧‍👦 Security Groups
+  ⚡ Dynamic Groups
+  🔑 Role-Based Access Control (RBAC)
+  ⚖️ Separation of Duties (SoD)
+  🎫 License Management
+  🔐 Authentication & MFA
+  🛡️ Conditional Access
+  🚀 Joiner Process
+  🔄 Mover Process
+  🚪 Leaver Process
+  🏛️ Identity Governance
+  👑 Privileged Access
+  💻 PowerShell Automation
+  🌐 Microsoft Graph API
+  📊 Monitoring & Reporting
+  
+  
+
+
+
 
   
-Use PowerShell, Microsoft Graph, and Azure Automation to reduce repetitive administrative work.
-├── 02-Lab-Setup
-├── 03-Enterprise-Design
-├── 04-Fake-Users
-├── 05-Bulk-User-Provisioning
-├── 06-Manager-Assignments
-├── 07-Security-Groups
-├── 08-Dynamic-Groups
-├── 09-RBAC
-├── 10-Separation-of-Duties
-├── 11-License-Management
-├── 12-Authentication-MFA
-├── 13-Conditional-Access
-├── 14-Joiner
-├── 15-Mover
-├── 16-Leaver
-├── 17-Identity-Governance
-├── 18-Privileged-Access
-├── 19-PowerShell-Automation
-├── 20-Microsoft-Graph
-├── 21-Monitoring-and-Reporting
 └── 22-GitHub-Documentation
