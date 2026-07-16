@@ -33,6 +33,26 @@ The new IAM solution must support the following business objectives:
   11. Identify orphan accounts, dormant accounts, excessive access, and separation-of-duties conflicts.
   13. Protect privileged accounts through least privilege, separate administrator accounts, MFA, emergency-access procedures, and just-in-time access.
   14. Generate reports and audit evidence for security and compliance reviews.
+
+ ## Project Role
+
+For this project, I am acting as the Microsoft Entra ID IAM Engineer responsible for designing, implementing, testing, documenting, and securing the company’s identity environment.
+
+My responsibilities include:
+
+ - Preparing identity data for 50 employees
+ - Bulk-provisioning users into Microsoft Entra ID
+ - Creating security and dynamic groups
+ - Designing an RBAC access model
+ - Assigning licenses and application access
+ - Configuring authentication methods and MFA
+ - Creating Conditional Access policies
+ - Building joiner, mover, and leaver processes
+ - Implementing Identity Governance controls
+ - Designing privileged-access protections
+ - Creating PowerShell and Microsoft Graph automation
+ - Producing audit reports, runbooks, screenshots, and test results
+ - 
 Use PowerShell, Microsoft Graph, and Azure Automation to reduce repetitive administrative work.
 ├── 02-Lab-Setup
 ├── 03-Enterprise-Design
