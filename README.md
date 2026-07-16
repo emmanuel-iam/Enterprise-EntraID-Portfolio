@@ -55,6 +55,18 @@ My responsibilities include:
 
  ## Expected Business Outcome 
 AccessShield Technologies will have a structured and secure cloud identity environment that reduces manual provisioning, limits unnecessary access, improves employee onboarding and offboarding, protects administrator accounts, and produces clear evidence for audits and compliance reviews.
+
+ ## Tools
+ -✅ User provisioning
+ -✅ RBAC
+ -✅ Dynamic groups
+ -✅ JML (Joiner–Mover–Leaver)
+ -✅ MFA
+ -✅ Conditional Access
+ -✅ Identity Governance
+ -✅ Privileged Access
+ -✅ Monitoring
+ -✅ Reporting
 Use PowerShell, Microsoft Graph, and Azure Automation to reduce repetitive administrative work.
 ├── 02-Lab-Setup
 ├── 03-Enterprise-Design
