@@ -91,9 +91,9 @@ AccessShield Technologies will have a structured and secure cloud identity envir
  ## Step 1
   📥 Bulk User Provisionin
   
- Entra ID Admin dashboard→ Users→ Bulk create→ Upload CSV→ Select file→ Submit.
+    Entra ID Admin dashboard→ Users→ Bulk create→ Upload CSV→ Select file→ Submit.
  
- Entra ID Admin dashboard→ Users→ Bulk operation results→ Select operation→ Download results.
+    Entra ID Admin dashboard→ Users→ Bulk operation results→ Select operation→ Download results.
  - Created users:
  - Failed users:
  - Duplicate users:
