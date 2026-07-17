@@ -1,4 +1,4 @@
-<h2>🏢Enterprise-EntraID-Portfolio
+<h2>🏢Enterprise-EntraID-Project
 
   ## Business-Scenario
 AccessShield Technologies is a growing technology and consulting company with employees in New York, New Jersey, Atlanta and remote locations.
