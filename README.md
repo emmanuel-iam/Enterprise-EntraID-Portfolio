@@ -25,6 +25,9 @@ Manual processes will create several business and security problems:
 The leadership team has asked the Identity and Access Management team to design and implement a secure Microsoft Entra ID environment.
 
  ## Department Structure
+ <img width="494" height="162" alt="Dapartment Structure" src="https://github.com/user-attachments/assets/3635c61d-74db-4488-b3bf-aea1b8007788" />
+
+
       
                       👔 Executive Leadership (4)
                                    │
@@ -96,6 +99,10 @@ AccessShield Technologies will have a structured and secure cloud identity envir
  - Errors:
 
     ⚡📜PowerShell user creation alternative
+   
+
+   
+
     
     
                           
