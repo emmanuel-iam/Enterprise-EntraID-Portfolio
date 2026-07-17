@@ -86,7 +86,23 @@ AccessShield Technologies will have a structured and secure cloud identity envir
   ✅ PowerShell
   ✅ Microsoft Graph
  ## Step 1
-  📥 Bulk User Provisioning
+  📥 Bulk User Provisionin
+  
+ Entra ID Admin dashboard→ Users→ Bulk create→ Upload CSV→ Select file→ Submit.
+ Entra ID Admin dashboard→ Users→ Bulk operation results→ Select operation→ Download results.
+ - Created users:
+ - Failed users:
+ - Duplicate users:
+ - Errors:
+
+    ⚡📜PowerShell user creation alternative
+    
+    
+                          
+                                                                      
+                    
+      
+    
  ## Step 2 
   👔 Manager Assignments
   ## Step 3
