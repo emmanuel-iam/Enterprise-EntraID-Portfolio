@@ -29,10 +29,31 @@ The leadership team has asked the Identity and Access Management team to design 
 
 
       
-                      👔 Executive Leadership (4)
-                                   │
-          ┌───────────────┬───────────────┬───────────────┐
-          │               │               │
+                        👔 Executive Leadership (4)
+                                     |
+                         Chief Executive Officer(CEO) 
+                  ┌───────────────────────┬────────────────────────────────────┐
+    Chief Information Officer(CIO)  Chief Financial Officer(CFO)  Chief Operating Officer(COO)
+          ┌───────────────┬───────────────┬───────────────┐                   |
+          
+                                   Operations Manager
+                                   ├── Operations Team Lead
+                                   
+                                   
+                                   
+                                   
+                                   
+│
+│   ├── Operations Analyst 1
+│   └── Operations Analyst 2
+│
+└── Senior Project Coordinator
+    
+
+
+
+
+               
        💻 IT (10)     💰 Finance (8)   ⚙️ Operations (10)
          │               │               │
          │               │               │
@@ -100,18 +121,13 @@ AccessShield Technologies will have a structured and secure cloud identity envir
  - Errors:
 
        ⚡📜PowerShell user creation alternative
-        
-
-    
-    
-                          
-                                                                      
-                    
       
     
  ## Step 2 
   👔 Manager Assignments
   ## Step 3
+
+  
   👨‍👩‍👧‍👦 Security Groups
   ## Step 4
   ⚡ Dynamic Groups
