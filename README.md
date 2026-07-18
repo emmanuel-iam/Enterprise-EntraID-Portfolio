@@ -47,15 +47,18 @@ The leadership team has asked the Identity and Access Management team to design 
                ├── Help Desk Technician 2              ├── Financial Analyst           |      ├── Sales Representative 2               └── Senior Project Coordinator
                ├── Desktop Support Specialist          └── Budget Analyst              |      ├── Business Development Representative  ├── Logistics Specialist
                └── IT Support Specialist                                               |      └── Sales Coordinator                    ├── Procurement Specialist
-                                                                                                                                       └── Office Administrator
-
-  
-
-
-
-
-
-     👥 HR (8)         📈 Sales (10)
+                                                                                       │                                               └── Office Administrator                                                                                           👥 HR (8)
+                                                                                   HR Manager
+                                                                                       │
+                                                                                       ├── Senior HR Specialist
+                                                                                       │   ├── HR Specialist
+                                                                                       │   ├── Benefits Specialist
+                                                                                       │   └── Payroll Specialist
+                                                                                       │
+                                                                                       └── Recruiting Lead
+                                                                                       ├── Recruiter 1
+                                                                                       ├── Recruiter 2
+                                                                                       └── HR Coordinator
 
 The new IAM solution must support the following business objectives:
 
