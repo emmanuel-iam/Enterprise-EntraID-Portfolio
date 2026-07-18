@@ -32,22 +32,24 @@ The leadership team has asked the Identity and Access Management team to design 
                                                    👔 Executive Leadership (4)
                                                                  |
                                                   Chief Executive Officer(CEO) 
-                  ┌───────────────────────────────────────────────┬─────────────────────────────────────────────────────────┐
-    Chief Information Officer(CIO)                      Chief Financial Officer(CFO)       ┬─────────────────── Chief Operating Officer(COO)
-                  |                                                |                  📈 Sales (10)                          |
-                                                                                    Sales Manager                ⚙️ Operations (10)
-                                                                                           │                        Operations Manager
-                                                                                   ├── Account Management Lead              │   
-                                                                                   │   ├── Account Manager 1                ├── Operations Team Lead
-                                                                                   │   ├── Account Manager 2                │   ├── Operations Coordinator 1
-                                                                                   │   └── Customer Success Manager         │   ├── Operations Coordinator 2
-                                                                                   |                                        │   ├── Operations Analyst 1
-                                                                                   └── Senior Sales Representative          │   └── Operations Analyst 2
-                                                                                   ├── Sales Representative 1               │
-                                                                                   ├── Sales Representative 2               └── Senior Project Coordinator
-                                                                                   ├── Business Development Representative  ├── Logistics Specialist
-                                                                                   └── Sales Coordinator                    ├── Procurement Specialist
-                                                                                                                            └── Office Administrator
+                  ┌─────────────────────────────────────────────┬─────────────────────────────────────────────────────────────────────────────┐
+    Chief Information Officer(CIO)                      Chief Financial Officer(CFO)   ┬───────────────────┬─────────────────── Chief Operating Officer(COO)       
+                  |                                         |                          |               📈 Sales (10)                          |
+                                                                                       |                 Sales Manager                ⚙️ Operations (10)
+                                                                                       |                     │                        Operations Manager
+                                                                                       |      ├── Account Management Lead              │   
+                                                                                       |      │   ├── Account Manager 1                ├── Operations Team Lead
+                                                                                       |      │   ├── Account Manager 2                │   ├── Operations Coordinator 1
+                                                                                       |      │   └── Customer Success Manager         │   ├── Operations Coordinator 2
+                                                                                       |      |                                        │   ├── Operations Analyst 1
+                                                                                       |      └── Senior Sales Representative          │   └── Operations Analyst 2
+                                                                                       |      ├── Sales Representative 1               │
+                                                                                       |      ├── Sales Representative 2               └── Senior Project Coordinator
+                                                                                       |      ├── Business Development Representative  ├── Logistics Specialist
+                                                                                       |      └── Sales Coordinator                    ├── Procurement Specialist
+                                                                                                                                       └── Office Administrator
+
+
 
 
 
