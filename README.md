@@ -32,36 +32,29 @@ The leadership team has asked the Identity and Access Management team to design 
                                                    👔 Executive Leadership (4)
                                                                  |
                                                   Chief Executive Officer(CEO) 
-                  ┌─────────────────────────────────┬─────────────────────────────────────────────────────────────────────────────────────────┐
-    Chief Information Officer(CIO)         Chief Financial Officer(CFO)                ┬───────────────────┬─────────────────── Chief Operating Officer(COO)       
-                  |                                 |                                  |               📈 Sales (10)                          |
-                                             💰 Finance (8)                                            Sales Manager                ⚙️ Operations (10)
-                                             Finance Manager                           |                     │                        Operations Manager
-                                                │   │                                  |      ├── Account Management Lead              │   
-                                                │   ├── Senior Accountant              |      │   ├── Account Manager 1                ├── Operations Team Lead
-                                                │   ├── Accountant                     |      │   ├── Account Manager 2                │   ├── Operations Coordinator 1
-                                                │   ├── Accounts Payable Specialist    |      │   └── Customer Success Manager        │   ├── Operations Coordinator 2
-                                                │   └── Accounts Receivable Specialist |      |                                        │   ├── Operations Analyst 1
-                                                │                                      |      └── Senior Sales Representative          │   └── Operations Analyst 2
-                                                └── Senior Financial Analyst           |      ├── Sales Representative 1               │
-                                                       ├── Financial Analyst           |      ├── Sales Representative 2               └── Senior Project Coordinator
-                                                       └── Budget Analyst              |      ├── Business Development Representative  ├── Logistics Specialist
-                                                                                       |      └── Sales Coordinator                    ├── Procurement Specialist
+             ┌──────────────────────────────────────┬─────────────────────────────────────────────────────────────────────────────────────────┐
+    Chief Information Officer(CIO)         Chief Financial Officer(CFO)                ┬─────────────────────┬─────────────────── Chief Operating Officer(COO)       
+             |                                      |                                  |               📈 Sales (10)                          |
+         💻 IT (10)                         💰 Finance (8)                                            Sales Manager                ⚙️ Operations (10)
+         IAM Manager                         Finance Manager                           |                     │                        Operations Manager
+           │    ├── IAM Engineer 1              │   │                                  |      ├── Account Management Lead              │   
+           │    ├── IAM Engineer 2              │   ├── Senior Accountant              |      │   ├── Account Manager 1                ├── Operations Team Lead
+           │    ├── Identity Analyst            │   ├── Accountant                     |      │   ├── Account Manager 2                │   ├── Operations Coordinator 1
+           │    └── Security Analyst            │   ├── Accounts Payable Specialist    |      │   └── Customer Success Manager         │   ├── Operations Coordinator 2
+           │                                    │   └── Accounts Receivable Specialist |      |                                        │   ├── Operations Analyst 1
+           └── IT Support Manager               │                                      |      └── Senior Sales Representative          │   └── Operations Analyst 2
+               ├── Help Desk Technician 1       └── Senior Financial Analyst           |      ├── Sales Representative 1               │
+               ├── Help Desk Technician 2              ├── Financial Analyst           |      ├── Sales Representative 2               └── Senior Project Coordinator
+               ├── Desktop Support Specialist          └── Budget Analyst              |      ├── Business Development Representative  ├── Logistics Specialist
+               └── IT Support Specialist                                               |      └── Sales Coordinator                    ├── Procurement Specialist
                                                                                                                                        └── Office Administrator
 
+  
 
 
 
 
 
-
-
-
-
-               
-       💻 IT (10)     💰 Finance (8)   ⚙️ Operations (10)
-         │               │               │
-         │               │               │
      👥 HR (8)         📈 Sales (10)
 
 The new IAM solution must support the following business objectives:
