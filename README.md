@@ -97,10 +97,10 @@ My responsibilities include:
  - Creating PowerShell and Microsoft Graph automation
  - Producing audit reports, runbooks, screenshots, and test results
 
- ## Expected Business Outcome 
+ ## 🎯 Project Objectives 
 AccessShield Technologies will have a structured and secure cloud identity environment that reduces manual provisioning, limits unnecessary access, improves employee onboarding and offboarding, protects administrator accounts, and produces clear evidence for audits and compliance reviews.
 
- ## Tools
+ ## 🛠️ Tools & Technologies
   👥 Microsoft Teams
   📊 Excel / CSV
   ☁️ Microsoft 365
